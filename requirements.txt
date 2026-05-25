@@ -1,0 +1,21 @@
+# Core ML
+torch>=2.2.0
+sentence-transformers
+chromadb
+google-genai
+
+# Utilities
+pandas>=2.2.0
+numpy>=1.26.0
+tqdm>=4.66.0
+scikit-learn>=1.5.0
+
+# Development
+black>=24.0.0
+isort>=5.13.0
+flake8>=7.0.0
+pytest>=8.0.0
+
+# CLI
+click>=8.1.0
+python-dotenv>=1.0.0
